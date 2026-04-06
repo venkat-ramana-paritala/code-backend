@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Test Med 1",
+    "batchNumber": "B123",
+    "quantityAvailable": 50,
+    "stockPurchased": 50,
+    "expiryDate": "2025-12-31T00:00:00.000Z"
+  },
+  {
+    "name": "Test Med 2",
+    "batchNumber": "B456",
+    "quantityAvailable": 20,
+    "stockPurchased": 20,
+    "expiryDate": "2025-06-30T00:00:00.000Z"
+  }
+]
